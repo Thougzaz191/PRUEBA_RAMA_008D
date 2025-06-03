@@ -7,4 +7,4 @@ def suma (a,b):
     return resultado
 
 
-print(suma)
+print(suma(a,b))
